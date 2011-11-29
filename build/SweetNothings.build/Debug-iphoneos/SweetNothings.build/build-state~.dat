@@ -1,0 +1,464 @@
+TSweetNothings
+v7
+r0
+t315176517.961561
+cCheck dependencies
+cCpResource build/Debug-iphoneos/SweetNothings.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/Info.plist SweetNothings-Info.plist
+cCompileXIB /Users/julian/Code/iPhone/SweetNothings/MainWindow.xib
+cProcessPCH /var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-djamfujcxbxwnjdifnelpdnjslcx/SweetNothings_Prefix.pch.gch SweetNothings_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-clcmteyyqactexevxjjokjxqixoa/SweetNothings_Prefix.pch.gch SweetNothings_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/main.o /Users/julian/Code/iPhone/SweetNothings/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothingsAppDelegate.o /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingsAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothingViewController.o /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothingView.o /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/main.o /Users/julian/Code/iPhone/SweetNothings/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothings normal armv6
+cCompileC build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothingsAppDelegate.o /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingsAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothingViewController.o /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothingView.o /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothings normal armv7
+cCreateUniversalBinary /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/SweetNothings normal "armv6 armv7"
+cGenerateDSYMFile /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app.dSYM /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/SweetNothings
+cProcessProductPackaging "/Users/julian/Library/MobileDevice/Provisioning Profiles/E8F4C836-2F84-411E-807F-90CBF91F0F77.mobileprovision" /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/embedded.mobileprovision
+cTouch /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings.xcent
+cCodeSign /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.h
+c000000004D18F37F000000000000012A
+t1293480831
+s298
+i<UIKit/UIKit.h>
+
+N/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m
+c000000004D18F62400000000000002DE
+t1293481508
+s734
+i"SweetNothingView.h"
+
+N/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingViewController.h
+c000000004D18EF5300000000000000F9
+t1293479763
+s249
+i<UIKit/UIKit.h>
+
+N/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingViewController.m
+c000000004D18F3FF000000000000070F
+t1293480959
+s1807
+i"SweetNothingViewController.h"
+i"SweetNothingView.h"
+
+N/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingsAppDelegate.h
+c000000004D18EDAE0000000000000154
+t1293479342
+s340
+i<UIKit/UIKit.h>
+
+N/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingsAppDelegate.m
+c000000004D18FD660000000000000C2B
+t1293483366
+s3115
+i"SweetNothingsAppDelegate.h"
+i"SweetNothingViewController.h"
+
+N/Users/julian/Code/iPhone/SweetNothings/MainWindow.xib
+c000000004D18EDAE0000000000002126
+t1293479342
+s8486
+
+N/Users/julian/Code/iPhone/SweetNothings/SweetNothings_Prefix.pch
+c000000004D18EDAE00000000000000C3
+t1293479342
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app
+t1293483717
+s340
+
+N/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app.dSYM
+t1293483717
+s102
+
+N/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/Info.plist
+t1293483713
+s805
+
+N/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/MainWindow.nib
+t1293483714
+s990
+
+N/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/PkgInfo
+t1293483713
+s8
+
+N/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/ResourceRules.plist
+t1293483713
+s485
+
+N/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/SweetNothings
+t1293483717
+s48152
+
+N/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/embedded.mobileprovision
+t1293483717
+s7242
+
+N/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothingView.o
+t1293483716
+s39844
+
+N/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothingViewController.o
+t1293483716
+s40980
+
+N/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothings
+t1293483717
+s23576
+
+N/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothings.LinkFileList
+c000000004D18FEC1000000000000023A
+t1293483713
+s570
+
+N/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothingsAppDelegate.o
+t1293483716
+s52520
+
+N/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/main.o
+t1293483716
+s6448
+
+N/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothingView.o
+t1293483716
+s39804
+
+N/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothingViewController.o
+t1293483716
+s40900
+
+N/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothings
+t1293483717
+s19480
+
+N/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothings.LinkFileList
+c000000004D18FEC1000000000000023A
+t1293483713
+s570
+
+N/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothingsAppDelegate.o
+t1293483716
+s52432
+
+N/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/main.o
+t1293483716
+s6432
+
+N/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings.xcent
+t1293483717
+s432
+
+N/Users/julian/Code/iPhone/SweetNothings/main.m
+c000000004D18EDAE000000000000016A
+t1293479342
+s362
+i<UIKit/UIKit.h>
+
+N/Users/julian/Library/MobileDevice/Provisioning Profiles/E8F4C836-2F84-411E-807F-90CBF91F0F77.mobileprovision
+c000000004D0CF4C50000000000001C4A
+t1292694725
+s7242
+
+N/var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-clcmteyyqactexevxjjokjxqixoa/SweetNothings_Prefix.pch.gch
+t1293483716
+s10446552
+
+N/var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-djamfujcxbxwnjdifnelpdnjslcx/SweetNothings_Prefix.pch.gch
+t1293483715
+s9983704
+
+NSweetNothings-Info.plist
+c000000004D18EDAE000000000000038D
+t1293479342
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315176513#315176513#0(0"0(0#1#0"8635842400#0"0#
+
+CCodeSign /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app
+s315176517.472599
+e315176517.961377
+r1
+xCodeSign
+x/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app
+lSLF07#2@47"CodeSign build/Debug-iphoneos/SweetNothings.app315176517#315176517#0(0"0(0#0#78"/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app8635456160#685"    cd /Users/julian/Code/iPhone/SweetNothings    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Julian Bleecker (93F8G7B58C)" --resource-rules=/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/ResourceRules.plist --entitlements /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings.xcent /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app0#
+
+CCompileC build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothingView.o /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315176516.261345
+e315176516.375831
+r1
+xCompileC
+xbuild/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothingView.o
+x/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m: In function '-[SweetNothingView drawRect:]':
+o/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m:30: warning: unused variable 'context'
+lSLF07#2@74"Compile /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m315176516#315176516#0(219"/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m: In function '-[SweetNothingView drawRect:]':/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m:30: warning: unused variable 'context'1(22@25"Unused variable 'context'315176516#113#106#0(6@66"/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m315174308#30#0#30#0#19"unused variable '*'0(0#0#66"/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m8650286752#1887"    cd /Users/julian/Code/iPhone/SweetNothings    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-generated-files.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-own-target-headers.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-all-target-headers.hmap -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-project-headers.hmap -F/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos -I/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/include -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources/armv6 -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources -include /var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-djamfujcxbxwnjdifnelpdnjslcx/SweetNothings_Prefix.pch -c /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m -o /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothingView.o0#
+
+CCompileC build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothingViewController.o /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315176516.221242
+e315176516.321403
+r1
+xCompileC
+xbuild/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothingViewController.o
+x/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingViewController.m315176516#315176516#0(0"0(0#0#76"/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingViewController.m8654564896#1907"    cd /Users/julian/Code/iPhone/SweetNothings    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-generated-files.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-own-target-headers.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-all-target-headers.hmap -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-project-headers.hmap -F/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos -I/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/include -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources/armv6 -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources -include /var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-djamfujcxbxwnjdifnelpdnjslcx/SweetNothings_Prefix.pch -c /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingViewController.m -o /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothingViewController.o0#
+
+CCompileC build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothingsAppDelegate.o /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingsAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315176516.103945
+e315176516.261253
+r1
+xCompileC
+xbuild/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothingsAppDelegate.o
+x/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingsAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingsAppDelegate.m315176516#315176516#0(0"0(0#0#74"/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingsAppDelegate.m8654942976#1903"    cd /Users/julian/Code/iPhone/SweetNothings    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-generated-files.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-own-target-headers.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-all-target-headers.hmap -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-project-headers.hmap -F/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos -I/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/include -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources/armv6 -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources -include /var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-djamfujcxbxwnjdifnelpdnjslcx/SweetNothings_Prefix.pch -c /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingsAppDelegate.m -o /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothingsAppDelegate.o0#
+
+CCompileC build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/main.o /Users/julian/Code/iPhone/SweetNothings/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315176516.103000
+e315176516.221111
+r1
+xCompileC
+xbuild/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/main.o
+x/Users/julian/Code/iPhone/SweetNothings/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/julian/Code/iPhone/SweetNothings/main.m315176516#315176516#0(0"0(0#0#46"/Users/julian/Code/iPhone/SweetNothings/main.m8654460640#1855"    cd /Users/julian/Code/iPhone/SweetNothings    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-generated-files.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-own-target-headers.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-all-target-headers.hmap -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-project-headers.hmap -F/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos -I/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/include -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources/armv6 -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources -include /var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-djamfujcxbxwnjdifnelpdnjslcx/SweetNothings_Prefix.pch -c /Users/julian/Code/iPhone/SweetNothings/main.m -o /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothingView.o /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315176516.600830
+e315176516.735229
+r1
+xCompileC
+xbuild/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothingView.o
+x/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m: In function '-[SweetNothingView drawRect:]':
+o/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m:30: warning: unused variable 'context'
+lSLF07#2@74"Compile /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m315176516#315176516#0(219"/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m: In function '-[SweetNothingView drawRect:]':/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m:30: warning: unused variable 'context'1(22@25"Unused variable 'context'315176516#113#106#0(6@66"/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m315174308#30#0#30#0#19"unused variable '*'0(0#0#66"/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m8650276448#1887"    cd /Users/julian/Code/iPhone/SweetNothings    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-generated-files.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-own-target-headers.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-all-target-headers.hmap -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-project-headers.hmap -F/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos -I/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/include -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources/armv7 -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources -include /var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-clcmteyyqactexevxjjokjxqixoa/SweetNothings_Prefix.pch -c /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingView.m -o /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothingView.o0#
+
+CCompileC build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothingViewController.o /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315176516.510772
+e315176516.600737
+r1
+xCompileC
+xbuild/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothingViewController.o
+x/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingViewController.m315176516#315176516#0(0"0(0#0#76"/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingViewController.m8654652320#1907"    cd /Users/julian/Code/iPhone/SweetNothings    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-generated-files.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-own-target-headers.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-all-target-headers.hmap -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-project-headers.hmap -F/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos -I/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/include -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources/armv7 -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources -include /var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-clcmteyyqactexevxjjokjxqixoa/SweetNothings_Prefix.pch -c /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingViewController.m -o /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothingViewController.o0#
+
+CCompileC build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothingsAppDelegate.o /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingsAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315176516.424530
+e315176516.510677
+r1
+xCompileC
+xbuild/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothingsAppDelegate.o
+x/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingsAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingsAppDelegate.m315176516#315176516#0(0"0(0#0#74"/Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingsAppDelegate.m8635003616#1903"    cd /Users/julian/Code/iPhone/SweetNothings    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-generated-files.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-own-target-headers.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-all-target-headers.hmap -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-project-headers.hmap -F/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos -I/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/include -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources/armv7 -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources -include /var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-clcmteyyqactexevxjjokjxqixoa/SweetNothings_Prefix.pch -c /Users/julian/Code/iPhone/SweetNothings/Classes/SweetNothingsAppDelegate.m -o /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothingsAppDelegate.o0#
+
+CCompileC build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/main.o /Users/julian/Code/iPhone/SweetNothings/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315176516.321564
+e315176516.424435
+r1
+xCompileC
+xbuild/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/main.o
+x/Users/julian/Code/iPhone/SweetNothings/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/julian/Code/iPhone/SweetNothings/main.m315176516#315176516#0(0"0(0#0#46"/Users/julian/Code/iPhone/SweetNothings/main.m8644612512#1855"    cd /Users/julian/Code/iPhone/SweetNothings    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-generated-files.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-own-target-headers.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-all-target-headers.hmap -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-project-headers.hmap -F/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos -I/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/include -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources/armv7 -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources -include /var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-clcmteyyqactexevxjjokjxqixoa/SweetNothings_Prefix.pch -c /Users/julian/Code/iPhone/SweetNothings/main.m -o /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/julian/Code/iPhone/SweetNothings/MainWindow.xib
+s315176513.872202
+e315176514.286698
+r1
+xCompileXIB
+x/Users/julian/Code/iPhone/SweetNothings/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib315176513#315176514#0(0"0(0#0#54"/Users/julian/Code/iPhone/SweetNothings/MainWindow.xib8642467328#551"    cd /Users/julian/Code/iPhone/SweetNothings    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/MainWindow.nib /Users/julian/Code/iPhone/SweetNothings/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCpResource build/Debug-iphoneos/SweetNothings.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s315176513.791884
+e315176513.872124
+r1
+xCpResource
+xbuild/Debug-iphoneos/SweetNothings.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist315176513#315176513#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8650005280#502"    cd /Users/julian/Code/iPhone/SweetNothings    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app0#
+
+CCreateUniversalBinary /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/SweetNothings normal "armv6 armv7"
+s315176517.220520
+e315176517.405756
+r1
+xCreateUniversalBinary
+x/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/SweetNothings
+xnormal
+xarmv6 armv7
+lSLF07#2@95"CreateUniversalBinary build/Debug-iphoneos/SweetNothings.app/SweetNothings normal "armv6 armv7"315176517#315176517#0(0"0(0#0#51"/Users/julian/Code/iPhone/SweetNothings/armv6 armv78645676128#570"    cd /Users/julian/Code/iPhone/SweetNothings    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothings /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothings -output /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/SweetNothings0#
+
+CGenerateDSYMFile /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app.dSYM /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/SweetNothings
+s315176517.405845
+e315176517.445573
+r1
+xGenerateDSYMFile
+x/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app.dSYM
+x/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/SweetNothings
+lSLF07#2@113"GenerateDSYMFile build/Debug-iphoneos/SweetNothings.app.dSYM build/Debug-iphoneos/SweetNothings.app/SweetNothings315176517#315176517#0(0"0(0#0#92"/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/SweetNothings8654823808#383"    cd /Users/julian/Code/iPhone/SweetNothings    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/SweetNothings -o /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app.dSYM0#
+
+CLd /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothings normal armv6
+s315176516.375917
+e315176517.183093
+r1
+xLd
+x/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothings
+xnormal
+xarmv6
+lSLF07#2@140"Link /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothings315176516#315176517#0(0"0(0#0#0"8635775744#900"    cd /Users/julian/Code/iPhone/SweetNothings    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos -F/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos -filelist /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothings.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv6/SweetNothings0#
+
+CLd /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothings normal armv7
+s315176516.735433
+e315176517.220429
+r1
+xLd
+x/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothings
+xnormal
+xarmv7
+lSLF07#2@140"Link /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothings315176516#315176517#0(0"0(0#0#0"8641454080#900"    cd /Users/julian/Code/iPhone/SweetNothings    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos -F/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos -filelist /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothings.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/Objects-normal/armv7/SweetNothings0#
+
+CProcessInfoPlistFile /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/Info.plist SweetNothings-Info.plist
+s315176513.793028
+e315176513.830019
+r1
+xProcessInfoPlistFile
+x/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/Info.plist
+xSweetNothings-Info.plist
+lSLF07#2@32"Process SweetNothings-Info.plist315176513#315176513#0(0"0(0#0#64"/Users/julian/Code/iPhone/SweetNothings/SweetNothings-Info.plist8646386240#590"    cd /Users/julian/Code/iPhone/SweetNothings    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SweetNothings-Info.plist -genpkginfo /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/ResourceRules.plist -o /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/Info.plist0#
+
+CProcessPCH /var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-clcmteyyqactexevxjjokjxqixoa/SweetNothings_Prefix.pch.gch SweetNothings_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s315176514.287800
+e315176516.102894
+r1
+xProcessPCH
+x/var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-clcmteyyqactexevxjjokjxqixoa/SweetNothings_Prefix.pch.gch
+xSweetNothings_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile SweetNothings_Prefix.pch315176514#315176516#0(0"0(0#0#64"/Users/julian/Code/iPhone/SweetNothings/SweetNothings_Prefix.pch8654816416#1746"    cd /Users/julian/Code/iPhone/SweetNothings    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-generated-files.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-own-target-headers.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-all-target-headers.hmap -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-project-headers.hmap -F/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos -I/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/include -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources/armv7 -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources -c /Users/julian/Code/iPhone/SweetNothings/SweetNothings_Prefix.pch -o /var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-clcmteyyqactexevxjjokjxqixoa/SweetNothings_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-djamfujcxbxwnjdifnelpdnjslcx/SweetNothings_Prefix.pch.gch SweetNothings_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s315176514.286842
+e315176516.037771
+r1
+xProcessPCH
+x/var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-djamfujcxbxwnjdifnelpdnjslcx/SweetNothings_Prefix.pch.gch
+xSweetNothings_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile SweetNothings_Prefix.pch315176514#315176516#0(0"0(0#0#64"/Users/julian/Code/iPhone/SweetNothings/SweetNothings_Prefix.pch8655036416#1746"    cd /Users/julian/Code/iPhone/SweetNothings    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-generated-files.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-own-target-headers.hmap -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-all-target-headers.hmap -iquote /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings-project-headers.hmap -F/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos -I/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/include -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources/armv6 -I/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/DerivedSources -c /Users/julian/Code/iPhone/SweetNothings/SweetNothings_Prefix.pch -o /var/folders/Or/Or2ZwYJiHRSQUTQaHEG3SE+++TY/-Caches-/com.apple.Xcode.505/SharedPrecompiledHeaders/SweetNothings_Prefix-djamfujcxbxwnjdifnelpdnjslcx/SweetNothings_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/julian/Library/MobileDevice/Provisioning Profiles/E8F4C836-2F84-411E-807F-90CBF91F0F77.mobileprovision" /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/embedded.mobileprovision
+s315176517.445678
+e315176517.447132
+r1
+xProcessProductPackaging
+x/Users/julian/Library/MobileDevice/Provisioning Profiles/E8F4C836-2F84-411E-807F-90CBF91F0F77.mobileprovision
+x/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/embedded.mobileprovision
+lSLF07#2@199"ProcessProductPackaging "/Users/julian/Library/MobileDevice/Provisioning Profiles/E8F4C836-2F84-411E-807F-90CBF91F0F77.mobileprovision" build/Debug-iphoneos/SweetNothings.app/embedded.mobileprovision315176517#315176517#0(0"0(0#0#103"/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/embedded.mobileprovision8654332512#432"    cd /Users/julian/Code/iPhone/SweetNothings    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/julian/Library/MobileDevice/Provisioning Profiles/E8F4C836-2F84-411E-807F-90CBF91F0F77.mobileprovision" -o /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings.xcent
+s315176517.451754
+e315176517.472535
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings.xcent
+lSLF07#2@193"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings.xcent315176517#315176517#0(0"0(0#0#120"/Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings.xcent8649636640#452"    cd /Users/julian/Code/iPhone/SweetNothings    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/julian/Code/iPhone/SweetNothings/build/SweetNothings.build/Debug-iphoneos/SweetNothings.build/SweetNothings.xcent0#
+
+CTouch /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app
+s315176517.447213
+e315176517.451527
+r1
+xTouch
+x/Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app
+lSLF07#2@84"Touch /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app315176517#315176517#0(0"0(0#0#0"8654131360#272"    cd /Users/julian/Code/iPhone/SweetNothings    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/julian/Code/iPhone/SweetNothings/build/Debug-iphoneos/SweetNothings.app0#
+

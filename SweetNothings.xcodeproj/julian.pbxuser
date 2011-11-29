@@ -1,0 +1,262 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SweetNothingsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {856, 514}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 340}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SweetNothingsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {873, 1547}}";
+			sepNavSelRange = "{634, 0}";
+			sepNavVisRange = "{152, 988}";
+			sepNavWindowFrame = "{{442, 30}, {912, 900}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SweetNothings */ = {
+		activeExec = 0;
+		executables = (
+			B9AAA2AF12C9252E001A65E9 /* SweetNothings */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = B9AAA2AF12C9252E001A65E9 /* SweetNothings */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SweetNothings */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SweetNothings */,
+		);
+		breakpoints = (
+			B9AAA31612C934BB001A65E9 /* SweetNothingsAppDelegate.m:49 */,
+			B9AAA37912C94A94001A65E9 /* SweetNothingViewController.m:30 */,
+		);
+		codeSenseManager = B9AAA2C112C9254E001A65E9 /* Code sense */;
+		executables = (
+			B9AAA2AF12C9252E001A65E9 /* SweetNothings */,
+		);
+		expressions = (
+			note,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					678,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315343977;
+			PBXWorkspaceStateSaveDate = 315343977;
+		};
+		perUserProjectItems = {
+			B987390412CBC46D00AEF8F7 /* PBXTextBookmark */ = B987390412CBC46D00AEF8F7 /* PBXTextBookmark */;
+			B9AAA30E12C9329E001A65E9 /* PBXTextBookmark */ = B9AAA30E12C9329E001A65E9 /* PBXTextBookmark */;
+			B9AAA35412C93B79001A65E9 /* PBXTextBookmark */ = B9AAA35412C93B79001A65E9 /* PBXTextBookmark */;
+			B9AAA36912C94979001A65E9 /* PBXTextBookmark */ = B9AAA36912C94979001A65E9 /* PBXTextBookmark */;
+			B9AAA39F12C94CD4001A65E9 /* PBXTextBookmark */ = B9AAA39F12C94CD4001A65E9 /* PBXTextBookmark */;
+			B9AAA3A812C94E04001A65E9 /* PBXTextBookmark */ = B9AAA3A812C94E04001A65E9 /* PBXTextBookmark */;
+			B9AAA3B712CB0388001A65E9 /* PBXTextBookmark */ = B9AAA3B712CB0388001A65E9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = B9AAA2C012C9254E001A65E9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	B987390412CBC46D00AEF8F7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SweetNothingsAppDelegate.m */;
+		name = "SweetNothingsAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 634;
+		rType = 0;
+		vrLen = 988;
+		vrLoc = 152;
+	};
+	B9AAA2AF12C9252E001A65E9 /* SweetNothings */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SweetNothings;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	B9AAA2C012C9254E001A65E9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	B9AAA2C112C9254E001A65E9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	B9AAA2C412C926D3001A65E9 /* SweetNothingViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {856, 491}}";
+			sepNavSelRange = "{347, 0}";
+			sepNavVisRange = "{0, 353}";
+		};
+	};
+	B9AAA2C512C926D3001A65E9 /* SweetNothingViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 1040}}";
+			sepNavSelRange = "{940, 0}";
+			sepNavVisRange = "{198, 1145}";
+		};
+	};
+	B9AAA2D212C929FC001A65E9 /* SweetNothingView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {856, 491}}";
+			sepNavSelRange = "{291, 0}";
+			sepNavVisRange = "{0, 298}";
+		};
+	};
+	B9AAA2D312C929FC001A65E9 /* SweetNothingView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {856, 533}}";
+			sepNavSelRange = "{582, 0}";
+			sepNavVisRange = "{44, 694}";
+		};
+	};
+	B9AAA30E12C9329E001A65E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* SweetNothingsAppDelegate.h */;
+		name = "SweetNothingsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 340;
+		vrLoc = 0;
+	};
+	B9AAA31612C934BB001A65E9 /* SweetNothingsAppDelegate.m:49 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 1D3623250D0F684500981E51 /* SweetNothingsAppDelegate.m */;
+		functionName = "-nowProximate:";
+		hitCount = 4;
+		ignoreCount = 0;
+		lineNumber = 49;
+		location = SweetNothings;
+		modificationTime = 315182241.805388;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	B9AAA35412C93B79001A65E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9AAA2D212C929FC001A65E9 /* SweetNothingView.h */;
+		name = "SweetNothingView.h: 16";
+		rLen = 0;
+		rLoc = 291;
+		rType = 0;
+		vrLen = 298;
+		vrLoc = 0;
+	};
+	B9AAA36912C94979001A65E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9AAA2C412C926D3001A65E9 /* SweetNothingViewController.h */;
+		name = "SweetNothingViewController.h: 18";
+		rLen = 0;
+		rLoc = 347;
+		rType = 0;
+		vrLen = 353;
+		vrLoc = 0;
+	};
+	B9AAA37912C94A94001A65E9 /* SweetNothingViewController.m:30 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = B9AAA2C512C926D3001A65E9 /* SweetNothingViewController.m */;
+		functionName = "-proximity:";
+		hitCount = 2;
+		ignoreCount = 0;
+		lineNumber = 30;
+		location = SweetNothings;
+		modificationTime = 315182236.731217;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	B9AAA39F12C94CD4001A65E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9AAA2D312C929FC001A65E9 /* SweetNothingView.m */;
+		name = "SweetNothingView.m: 30";
+		rLen = 0;
+		rLoc = 582;
+		rType = 0;
+		vrLen = 694;
+		vrLoc = 44;
+	};
+	B9AAA3A812C94E04001A65E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B9AAA2C512C926D3001A65E9 /* SweetNothingViewController.m */;
+		name = "SweetNothingViewController.m: 31";
+		rLen = 0;
+		rLoc = 940;
+		rType = 0;
+		vrLen = 1145;
+		vrLoc = 198;
+	};
+	B9AAA3B712CB0388001A65E9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SweetNothingsAppDelegate.m */;
+		name = "SweetNothingsAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 634;
+		rType = 0;
+		vrLen = 1119;
+		vrLoc = 152;
+	};
+}
